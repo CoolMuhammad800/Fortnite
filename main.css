@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    font-size: 70px;
+}
+
+body{
+    background-color:black;
+    color: gold;
+    font-size: 35px;
+}
+
+a:hover{
+    color: bisque;
+}
+a:visited, a:active{
+    color:blanchedalmond;
+}
+a{
+    color:beige;
+}
